@@ -24,6 +24,8 @@
  *
  */
 
+// Here is a very long line to force SwiftLint to trig an error. So I hope that Travis should mark this build as broken. Here is a very long line to force SwiftLint to trig an error. So I hope that Travis should mark this build as broken. Here is a very long line to force SwiftLint to trig an error. So I hope that Travis should mark this build as broken. Here is a very long line to force SwiftLint to trig an error. So I hope that Travis should mark this build as broken. Here is a very long line to force SwiftLint to trig an error. So I hope that Travis should mark this build as broken. Here is a very long line to force SwiftLint to trig an error. So I hope that Travis should mark this build as broken. Here is a very long line to force SwiftLint to trig an error. So I hope that Travis should mark this build as broken. Here is a very long line to force SwiftLint to trig an error. So I hope that Travis should mark this build as broken. Here is a very long line to force SwiftLint to trig an error. So I hope that Travis should mark this build as broken. Here is a very long line to force SwiftLint to trig an error. So I hope that Travis should mark this build as broken. 
+
 #if os(iOS) || os(tvOS) || os(watchOS)
   import UIKit
 
